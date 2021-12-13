@@ -1,3 +1,4 @@
+navigator.mediaDevices.getUserMedia({video: true})
 feather.replace();
 
 const controls = document.querySelector('.controls');
